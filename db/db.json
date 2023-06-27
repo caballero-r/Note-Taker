@@ -1,12 +1,12 @@
 [
   {
-    "title": "hello",
-    "text": "test",
-    "id": "123456789"
+    "title": "Tasks for Dogs",
+    "text": "1. Take the dogs out for a walk\n2. Feed the dogs\n3. Bathe dogs",
+    "id": "bacba59c-0d88-47c9-810f-3af375c01b8f"
   },
   {
-    "title": "Test",
-    "text": "Testing",
-    "id": "44fc7e45-060a-4c57-baf1-9bbb21f255a9"
+    "title": "Velocity",
+    "text": "Definition: This is a vector, therefore it must have a direction and a magnitude\n\nCommon formulas to determine velocity in one dimension:\n1. v = x/t, where x = displacement, and t = time\n2. v = at, where a = acceleration, and t = time\n3. v = (Ft) / m, where F = force, t = time, and m = mass",
+    "id": "4c70ce2f-b8df-4daf-9d65-6ce07bd9f2d2"
   }
 ]
